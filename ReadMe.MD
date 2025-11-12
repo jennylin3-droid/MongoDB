@@ -1,12 +1,10 @@
-###MongoDB Assignment
+MongoDB Assignment
 
 MongoDB Overview Badge and Completion
-![Badge](<../Pictures/Screenshots/Screenshot 2025-11-11 210308.png>)
-![Completion](<../Pictures/Screenshots/Screenshot 2025-11-11 210500.png>)
-
-Relational to Document Model
-![Badge](<../Pictures/Screenshots/Screenshot 2025-11-11 212925.png>)
-![Completion](<../Pictures/Screenshots/Screenshot 2025-11-11 212956.png>)
+![Overview Badge](Screenshots/Overview%20Badge.png)
+![Overview Comp](Screenshots/Overview%20Comp.png)
+![Relational Model Badge](Screenshots/Relational%20Model%20Badge.png)
+![Relational Model Comp](Screenshots/Relational%20Model%20Comp.png)
 
 ##Question
 a. When comparing relational databases (RDBMS) like MySQL with non-relational, document-oriented databases like MongoDB, several distinctions emerge.The key difference that significantly impact database design are schema flexibility and the underlying data storage model.
