@@ -1,6 +1,6 @@
 MongoDB Assignment
 
-MongoDB Overview Badge and Completion
+MongoDB Badges and Completions
 ![Overview Badge](Screenshots/Overview%20Badge.png)
 ![Overview Comp](Screenshots/Overview%20Comp.png)
 ![Relational Model Badge](Screenshots/Relational%20Model%20Badge.png)
